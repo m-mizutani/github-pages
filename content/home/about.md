@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Network Security for Defence, Detection and Security Forensics",
+    "Data Visualization and Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Media and Governance"
+  institution = "Keio University"
+  year = 2010
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Master of Media and Governance"
+  institution = "Keio University"
   year = 2008
+
+[[education.courses]]
+  course = "Bachelor of Arts in Environment and Information Studies"
+  institution = "Keio University"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Masayoshi Mizutani is a security engineer. In university, he was studying and researching about network-based intrusion detection system and malware analysis. After graduation, he worked for various projects, e.g. SIEM (Security Information & Event Manager) integration, SOC (Security Operation Centor) Analyst, building visualization system of security data and so on.

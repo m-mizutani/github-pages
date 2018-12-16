@@ -18,28 +18,51 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Security Engineer"
+  company = "Cookpad Inc."
+  company_url = "http://cookpad.com"
+  location = "Japan"
+  date_start = "2016-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Design & Implementation of Security Monitoring System
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Staff"
+  company = "IBM Japan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Japan"
+  date_start = "2016-10-01"
+  date_end = "2017-10-31"
+  description = """
+  * Security System
+  """
+
+
+[[experience]]
+  title = "Security Operation Centor Analyst"
+  company = "IBM Japan"
+  company_url = ""
+  location = "Japan"
+  date_start = "2015-04-01"
+  date_end = "2016-09-30"
+  description = """
+  * Security System
+  """
+
+
+[[experience]]
+  title = "Research Staff"
+  company = "IBM Japan"
+  company_url = ""
+  location = "Japan"
+  date_start = "2011-04-01"
+  date_end = "2015-03-31"
+  description = """
+  * Security System
+  """
 
 +++
