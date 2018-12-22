@@ -200,10 +200,9 @@ enableGitInfo = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-    'Manuscript',  # 3
+    'Workshop',  # 3
     'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
+    'Patent',  # 5
   ]
 
   # Configuration of talk pages.

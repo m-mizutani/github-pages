@@ -1,10 +1,10 @@
 +++
-title = "システムログ書式の構造に着目したシステム異常検出手法の検討"
-date = 2018-12-22T11:37:10+09:00
+title = "Method for estimating format of log message and computer and computer program therefor"
+date = 2018-01-02T13:40:53+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Masayoshi Mizutani"]
+authors = ["Masayoshi Mizutani "]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["Masayoshi Mizutani"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "IPSJ Computer Security Symposium 2018"
+publication = "US9858168B2"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "A technique for estimating a format of a log message (LM) according to the present invention includes creating a first directed graph structure by dividing a first LM by predetermined characters to define divided portions as nodes and arranging the nodes in order from the beginning of the first LM; creating a second directed graph structure by performing on a second LM the same processing as that performed on the first LM; comparing nodes in the first directed graph structure with nodes in the second directed graph structure to detect nodes other than nodes including a corresponding character string; adding to the first directed graph structure the node detected in the second directed graph structure among the detected nodes as a first branch node; and estimating the format, based on the first directed graph structure including the first branch node added thereto."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -54,14 +54,14 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://speakerdeck.com/mizutani/css2018-mizutani"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Patent", url = "https://patents.google.com/patent/US9858168B2"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
