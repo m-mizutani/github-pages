@@ -1,6 +1,6 @@
 +++
 title = "The Design and Implementation of Session Based IDS"
-date = 2018-12-22T11:28:57+09:00
+date = 2005-11-22T11:28:57+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Masayoshi Mizutani", "Shin Shirahata", "Masaki Minami", "Jun Murai"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IEICE Transactions on Communications (Japanese Edition), IEICE, Vol.89, No.3, pp.46-58, Nov. 2005"
+publication = "IEICE Transactions on Communications (Japanese Edition), IEICE, Vol.89, No.3, pp.46-58"
 publication_short = ""
 
 # Abstract and optional shortened version.

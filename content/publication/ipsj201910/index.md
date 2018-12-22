@@ -1,6 +1,6 @@
 +++
 title = "An Analysis of Web Distributed Malwares and A Proposal of Their Detection Method"
-date = 2018-12-22T11:31:43+09:00
+date = 2009-10-22T11:31:43+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

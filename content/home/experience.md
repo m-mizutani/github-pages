@@ -57,8 +57,8 @@ date_format = "January 2006"
   description = """
   Analytical duties
   
-  * Detect and analysis security alert
-  * Reporting monitoring summary and trend to customers
+  * Detect and analyze security alerts
+  * Write customer reports of monitoring summary of customer site and global trend
   * Write biannual SOC trend analysis reports
 
   Process Improvement
@@ -83,7 +83,6 @@ date_format = "January 2006"
   * Design and implementation of audit log management system
   * Develop extention and solution of integration for Security Information & Event Manager (QRadar)
   * Deploy Security Information & Event Manager into cloud environment
-  * 
   """
 
 [[experience]]

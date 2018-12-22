@@ -1,6 +1,6 @@
 +++
 title = "A Malware Detection Method based on Communication Commonality – Implementation and Evaluation"
-date = 2018-12-22T11:31:37+09:00
+date = 2009-09-22T11:31:37+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Masayoshi Mizutani", "Akira Kanai", "Keiji Takeda", "Jun Murai"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "IPSJ 2009. Vol.50 No.9, Sep. 2009"
+publication = "IPSJ 2009. Vol.50 No.9"
 publication_short = ""
 
 # Abstract and optional shortened version.

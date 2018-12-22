@@ -1,10 +1,10 @@
 +++
-title = "Incremental Mining of System Log Format"
-date = 2013-08-22T11:25:34+09:00
+title = "IBM Tokyo SOC 情報分析レポート 2015年上半期"
+date = 2015-08-22T12:41:34+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Masayoshi Mizutani"]
+authors = ["IBM Tokyo SOC"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Masayoshi Mizutani"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "SCC ‘13 Proceedings of the 2013 IEEE International Conference on Services"
+publication = "[Column3] 攻撃元 IP アドレスからみる ShellShock 脆弱性を利用した攻撃の分析"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -26,7 +26,7 @@ abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://public.dhe.ibm.com/common/ssi/ecm/se/ja/sew03083jpja/security-ibm-security-services-se-white-paper-external-sew03083jpja-20180428.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
