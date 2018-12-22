@@ -28,62 +28,34 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Infrastructure Dept. Security Group
-  
+
   * Design & Implementation of Security Monitoring System on AWS
   * Deploy monitoring software and integration (e.g. Endpoint Detection & Response tool)
   """
 
 [[experience]]
-  title = "Research Staff"
+  title = "Research Staff / Security Analyst"
   company = "IBM Japan"
   company_url = "http://www.research.ibm.com/labs/tokyo/"
   location = "Tokyo, Japan"
-  date_start = "2016-10-01"
+  date_start = "2011-10-01"
   date_end = "2017-10-31"
   description = """
-  Security Research & Development
-  
-  * Develop system to collect security information of container
-  """
+  Research Tokyo (2011.4-2015.3, 2016.10-2017.10)
 
-
-[[experience]]
-  title = "Security Analyst"
-  company = "IBM Japan, Security Operation Center"
-  company_url = "https://www.ibm.com/blogs/tokyo-soc/"
-  location = "Tokyo, Japan"
-  date_start = "2015-04-01"
-  date_end = "2016-09-30"
-  description = """
-  Analytical duties
-  
-  * Detect and analyze security alerts
-  * Write customer reports of monitoring summary of customer site and global trend
-  * Write biannual SOC trend analysis reports
-
-  Process Improvement
-  
-  * Develop cutomer report automatic generation tool
-  * Develop log collection and analysis tool
-  * Develop visualization tool to display security information on a huge monitor
-  * Develop chatops tool
-  """
-
-
-[[experience]]
-  title = "Research Staff"
-  company = "IBM Japan, Tokyo Research"
-  company_url = "http://www.research.ibm.com/labs/tokyo/"
-  location = "Tokyo, Japan"
-  date_start = "2011-04-01"
-  date_end = "2015-03-31"
-  description = """  
-  Security Research & Development
-  
   * Design and implementation of audit log management system
   * Develop extention and solution of integration for Security Information & Event Manager (QRadar)
   * Deploy Security Information & Event Manager into cloud environment
+  * Develop system to collect security information of container system
+
+  Security Operation Centor (2015.4-2016.9)
+
+  * Detect and analyze security alerts and report to customer
+  * Write biannual SOC trend analysis reports
+  * Security operation improvement by automation and tool development
+
   """
+
 
 [[experience]]
   title = "Engineer (Internship)"
@@ -92,7 +64,7 @@ date_format = "January 2006"
   location = "Redwood City, CA USA"
   date_start = "2010-12-01"
   date_end = "2011-03-31"
-  description = """  
+  description = """
   * Develop monitoring dashboard for Security Information Exchange
   """
 
