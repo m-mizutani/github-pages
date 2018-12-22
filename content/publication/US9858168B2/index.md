@@ -22,11 +22,11 @@ publication = "US9858168B2"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "A technique for estimating a format of a log message (LM) according to the present invention includes creating a first directed graph structure by dividing a first LM by predetermined characters to define divided portions as nodes and arranging the nodes in order from the beginning of the first LM; creating a second directed graph structure by performing on a second LM the same processing as that performed on the first LM; comparing nodes in the first directed graph structure with nodes in the second directed graph structure to detect nodes other than nodes including a corresponding character string; adding to the first directed graph structure the node detected in the second directed graph structure among the detected nodes as a first branch node; and estimating the format, based on the first directed graph structure including the first branch node added thereto."
+abstract = ""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
