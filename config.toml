@@ -305,6 +305,11 @@ enableGitInfo = false
   url = "/publication/"
   weight = 2
 
+[[menu.main]]
+  name = "Talks"
+  url = "/talk/"
+  weight = 3
+
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
